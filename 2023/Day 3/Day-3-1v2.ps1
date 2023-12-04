@@ -1,6 +1,6 @@
 
-$data = get-content '/Users/bd3p0/Library/CloudStorage/OneDrive-Personal/Documents/Advent of Code/2023/Day 3/Day-3-input.txt'
-$sampledata = get-content '/Users/bd3p0/Library/CloudStorage/OneDrive-Personal/Documents/Advent of Code/2023/Day 3/Day-3-Sample.txt'
+$data = get-content '/Day-3-input.txt'
+$sampledata = get-content '/Day-3-Sample.txt'
 $rowcount = 0
 $allCoords =@()
 $dotcoords =@()
